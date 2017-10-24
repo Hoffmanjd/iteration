@@ -14,7 +14,7 @@ def iterate(list):
 
 def add_one(list):
 	# standard for loop with range
-	for i in rnage(0, len(list)):
+	for i in range(0, len(list)):
 		list[i] += 1
 
 	return list
